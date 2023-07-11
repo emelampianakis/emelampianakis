@@ -1,4 +1,4 @@
-### Hi there 👋
+![Snake animation](https://github.com/emelampianakis/emelampianakis/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **emelampianakis/emelampianakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
