@@ -1,5 +1,13 @@
 ![Snake animation](https://github.com/emelampianakis/emelampianakis/blob/output-snake/github-contribution-grid-snake.svg)
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/emelampianakis/count.svg?"  />
+</div>
+
+###
+
 <!--
 **emelampianakis/emelampianakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
